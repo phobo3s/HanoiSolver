@@ -2,6 +2,7 @@ import time
 import multiprocessing
 import os
 
+os.system("dir")
 positionCount = {"A":0,"B":0,"C":0}
 posArr = []
 
